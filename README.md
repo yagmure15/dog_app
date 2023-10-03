@@ -1,11 +1,12 @@
-# appnation_dog_app
+# App Nation - Dog App
 
-A new Flutter project.
-![Alternatif Metin](https://drive.google.com/file/d/1P9I2g953o8l9GcI2Dudl-g4U-ncdQcxc/view?usp=sharing))
 
-[![Now in Android: 55]
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+[![S6ph2.gif](https://s6.gifyu.com/images/S6ph2.gif)](https://imageupload.io/cTU9HLN2fSSzLKu)
+
+[![Uygulama Tanıtım Video](https://gifyu.com/image/S6ph2.png)](https://www.youtube.com/shorts/p8MAsgDQNag)
+
+![Gif 2](https://imageupload.io/en/cTU9HLN2fSSzLKu)
+
 
 ## Getting Started
 
