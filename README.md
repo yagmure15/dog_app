@@ -31,7 +31,8 @@ Projenin yerel geliştirme ortamında nasıl çalıştırılacağına dair kurul
 1. Flutter SDK'yı [buradan](https://flutter.dev/docs/get-started/install) indirin ve kurun.
 2. Projeyi bu depodan (`git clone`) alın.
 3. Proje dizinine gidin ve terminalde `flutter pub get` komutunu çalıştırın.
-4. Terminalde `flutter run` komutunu kullanarak projeyi çalıştırın.
+4. Terminalde `dart pub run build_runner build --delete-conflicting-outputs` komutunu çalıştırın.
+5. Terminalde `flutter run` komutunu kullanarak projeyi çalıştırın.
 
 ## Geliştirilmesi Gereken Konu
 
