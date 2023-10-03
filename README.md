@@ -1,7 +1,8 @@
 # appnation_dog_app
 
 A new Flutter project.
-![Uploading app_gif_1.gif…]()
+![Alternatif Metin]([https://www.example.com/your-gif.gif](https://drive.google.com/file/d/1P9I2g953o8l9GcI2Dudl-g4U-ncdQcxc/view))
+
 
 ## Getting Started
 
