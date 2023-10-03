@@ -1,6 +1,6 @@
 # App Nation - Dog App
 
-![Uygulama Logosu](https://gifyu.com/image/S6ph2)
+![Uygulama Logosu](https://github.com/yagmure15/dog_app/blob/main/assets/images/dog_app_logo.png)
 
 App Nation - Dog App, köpek ırkları ve resimleri hakkında bilgi veren bir mobil uygulamadır. Bu projede, uygulamanın temel özelliklerini ve teknolojilerini anlatan bir özet sunulmaktadır.
 
@@ -13,12 +13,12 @@ App Nation - Dog App, köpek ırkları ve resimleri hakkında bilgi veren bir mo
 - **Özellikler**:
   - Köpek ırkları ve alt türleri hakkında bilgi sunma.
   - Her ırk için görsel sunma.
-  - YouTube videoları gibi ek bağlantıları içeren detaylı bilgi ekranları.
 
 ## Proje Görselleri
 
-![Ekran Görüntüsü 1](https://example.com/image1.png)
-![Ekran Görüntüsü 2](https://example.com/image2.png)
+![Ekran Görüntüsü 1](https://github.com/yagmure15/dog_app/blob/main/assets/gif/app_gif_1.gif)
+![Ekran Görüntüsü 2](https://github.com/yagmure15/dog_app/blob/main/assets/gif/app_gif_2.gif)
+![Ekran Görüntüsü 3](https://github.com/yagmure15/dog_app/blob/main/assets/gif/app_gif_3.gif)
 
 ## Video Tanıtım
 
@@ -33,8 +33,13 @@ Projenin yerel geliştirme ortamında nasıl çalıştırılacağına dair kurul
 3. Proje dizinine gidin ve terminalde `flutter pub get` komutunu çalıştırın.
 4. Terminalde `flutter run` komutunu kullanarak projeyi çalıştırın.
 
+## Geliştirilmesi Gereken Konu
+
+Image Cache'leme sırasında dönen verilerin null geldiği durumlar için daha iyi bir yöntem ele alınmalıdır. Kod'a da yorum bıraktım. Oradan detaylı incelenebilir.
+
 ## Destek ve İletişim
 
 Eğer projeye ilişkin herhangi bir sorunuz, geri bildiriminiz veya öneriniz varsa, lütfen bize [e-posta ile ulaşın](mailto:enginyagmur2828@gmail.com).
 
-Bu proje, App Nation - Dog App'in temel yapısını ve teknolojilerini anlatan bir özettir. İşe alım sürecinde daha fazla bilgi sunmak için geliştirilebilir.
+Bu proje, App Nation - Dog App'in temel yapısını ve teknolojilerini anlatan bir özettir. İşe alım sürecinde daha fazla bilgi sunmak için geliştirilebilir. 
+
