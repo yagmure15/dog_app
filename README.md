@@ -3,6 +3,9 @@
 A new Flutter project.
 ![Alternatif Metin](https://drive.google.com/file/d/1P9I2g953o8l9GcI2Dudl-g4U-ncdQcxc/view?usp=sharing))
 
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
 
 ## Getting Started
 
