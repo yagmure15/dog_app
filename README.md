@@ -1,6 +1,7 @@
 # appnation_dog_app
 
 A new Flutter project.
+![Uploading app_gif_1.gif…]()
 
 ## Getting Started
 
