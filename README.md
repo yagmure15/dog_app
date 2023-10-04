@@ -1,4 +1,4 @@
-# App Nation - Dog App
+# AppNation - Dog App
 
 ![Uygulama Logosu](https://github.com/yagmure15/dog_app/blob/main/assets/images/dog_app_logo.png)
 
@@ -40,7 +40,7 @@ Image Cache'leme sırasında dönen verilerin null geldiği durumlar için daha 
 
 ## Destek ve İletişim
 
-Eğer projeye ilişkin herhangi bir sorunuz, geri bildiriminiz veya öneriniz varsa, lütfen bize [e-posta ile ulaşın](mailto:enginyagmur2828@gmail.com).
+Eğer projeye ilişkin herhangi bir sorunuz, geri bildiriminiz veya öneriniz varsa, lütfen bana [e-posta ile ulaşın](mailto:enginyagmur2828@gmail.com).
 
 Bu proje, App Nation - Dog App'in temel yapısını ve teknolojilerini anlatan bir özettir. İşe alım sürecinde daha fazla bilgi sunmak için geliştirilebilir. 
 
